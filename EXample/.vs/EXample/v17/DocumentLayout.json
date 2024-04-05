@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD9DE15-939E-4101-880C-E2F6D10ECDC7}|Controlleur\\Controlleur.csproj|C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\controlleur\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD9DE15-939E-4101-880C-E2F6D10ECDC7}|Controlleur\\Controlleur.csproj|solutionrelative:controlleur\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E3BF27-FE2E-4C99-8A40-BBB5AF1DF41E}|Vue\\Vue.csproj|C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\vue\\ucclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E3BF27-FE2E-4C99-8A40-BBB5AF1DF41E}|Vue\\Vue.csproj|solutionrelative:vue\\ucclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E3BF27-FE2E-4C99-8A40-BBB5AF1DF41E}|Vue\\Vue.csproj|C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\vue\\ucclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45E3BF27-FE2E-4C99-8A40-BBB5AF1DF41E}|Vue\\Vue.csproj|solutionrelative:vue\\ucclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6943B43-94F4-41EF-844A-4B8688441555}|Modele\\Modele.csproj|C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\modele\\reparation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6943B43-94F4-41EF-844A-4B8688441555}|Modele\\Modele.csproj|solutionrelative:modele\\reparation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6943B43-94F4-41EF-844A-4B8688441555}|Modele\\Modele.csproj|C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\modele\\techniciens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6943B43-94F4-41EF-844A-4B8688441555}|Modele\\Modele.csproj|solutionrelative:modele\\techniciens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6943B43-94F4-41EF-844A-4B8688441555}|Modele\\Modele.csproj|c:\\users\\bigirimana\\source\\repos\\example\\example\\modele\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6943B43-94F4-41EF-844A-4B8688441555}|Modele\\Modele.csproj|solutionrelative:modele\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6943B43-94F4-41EF-844A-4B8688441555}|Modele\\Modele.csproj|C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\modele\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6943B43-94F4-41EF-844A-4B8688441555}|Modele\\Modele.csproj|solutionrelative:modele\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6943B43-94F4-41EF-844A-4B8688441555}|Modele\\Modele.csproj|C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\modele\\materiel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6943B43-94F4-41EF-844A-4B8688441555}|Modele\\Modele.csproj|solutionrelative:modele\\materiel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\Modele\\Personne.cs",
+              "RelativeDocumentMoniker": "Modele\\Personne.cs",
+              "ToolTip": "C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\Modele\\Personne.cs",
+              "RelativeToolTip": "Modele\\Personne.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:56:10.422Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ucClient.cs",
+              "DocumentMoniker": "C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\Vue\\ucClient.cs",
+              "RelativeDocumentMoniker": "Vue\\ucClient.cs",
+              "ToolTip": "C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\Vue\\ucClient.cs",
+              "RelativeToolTip": "Vue\\ucClient.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAawFkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:46:14.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ucClient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\Vue\\ucClient.cs",
+              "RelativeDocumentMoniker": "Vue\\ucClient.cs",
+              "ToolTip": "C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\Vue\\ucClient.cs [Design]",
+              "RelativeToolTip": "Vue\\ucClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:46:12.177Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Techniciens.cs",
+              "DocumentMoniker": "C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\Modele\\Techniciens.cs",
+              "RelativeDocumentMoniker": "Modele\\Techniciens.cs",
+              "ToolTip": "C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\Modele\\Techniciens.cs",
+              "RelativeToolTip": "Modele\\Techniciens.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:56:19.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reparation.cs",
+              "DocumentMoniker": "C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\Modele\\Reparation.cs",
+              "RelativeDocumentMoniker": "Modele\\Reparation.cs",
+              "ToolTip": "C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\Modele\\Reparation.cs",
+              "RelativeToolTip": "Modele\\Reparation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:56:15.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Materiel.cs",
+              "DocumentMoniker": "C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\Modele\\Materiel.cs",
+              "RelativeDocumentMoniker": "Modele\\Materiel.cs",
+              "ToolTip": "C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\Modele\\Materiel.cs",
+              "RelativeToolTip": "Modele\\Materiel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:56:04.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Clients.cs",
+              "DocumentMoniker": "C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\Modele\\Clients.cs",
+              "RelativeDocumentMoniker": "Modele\\Clients.cs",
+              "ToolTip": "C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\Modele\\Clients.cs",
+              "RelativeToolTip": "Modele\\Clients.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:55:17.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\Controlleur\\Factory.cs",
+              "RelativeDocumentMoniker": "Controlleur\\Factory.cs",
+              "ToolTip": "C:\\Users\\Bigirimana\\source\\repos\\EXample\\EXample\\Controlleur\\Factory.cs",
+              "RelativeToolTip": "Controlleur\\Factory.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAmwEAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:44:21.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
